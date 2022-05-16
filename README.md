@@ -1,2 +1,3 @@
-# random_forest_classifier
-basic random forest classifier, only using basic python libraries
+basic classifier, only using basic python libraries
+
+inspired by and implementation ideas taken from Python Engineer https://github.com/python-engineer
